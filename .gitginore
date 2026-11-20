@@ -1,0 +1,10 @@
+build/
+*.bin
+*.elf
+*.hex
+*.map
+.pio/
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
